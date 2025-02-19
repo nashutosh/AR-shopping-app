@@ -1,7 +1,7 @@
 # 🛍️ Augmented Reality Shopping App  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/google/ar-core-android-sdk/master/assets/arcore_logo.png" alt="ARCore Logo" width="200"/>
+  <img src="Final_Demo_AR (1).mp4" alt="ARCore Logo" width="200"/>
 </p>
 
 An immersive **Augmented Reality (AR) shopping experience** that allows users to visualize products in real-world environments. Built with **cutting-edge AR technology**, this application enhances online shopping by integrating 3D product models into real-world spaces.
