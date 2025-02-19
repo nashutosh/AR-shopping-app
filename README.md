@@ -1,9 +1,4 @@
 # 🛍️ Augmented Reality Shopping App  
-
-<p align="center">
-  <img src="Final_Demo_AR (1).mp4" alt="ARCore Logo" width="200"/>
-</p>
-
 An immersive **Augmented Reality (AR) shopping experience** that allows users to visualize products in real-world environments. Built with **cutting-edge AR technology**, this application enhances online shopping by integrating 3D product models into real-world spaces.
 
 Developed by **Ashutosh Singh**.
@@ -15,7 +10,6 @@ Developed by **Ashutosh Singh**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="70"/>
-  <img src="https://www.svgrepo.com/show/331760/unity.svg" alt="AR/VR" width="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" width="70"/>
 </p>
 
